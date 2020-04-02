@@ -68,6 +68,7 @@ void Entity::movement()
 				if (event.key.code == sf::Keyboard::Numpad8) player3.move(0, -64);
 
 			}
+			
 		}
 		
 		window.clear();
